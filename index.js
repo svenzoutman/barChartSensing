@@ -1,5 +1,5 @@
 // // python -m SimpleHTTPServer
-import "./node_modules/d3/dist/d3.min.js";
+// import "./node_modules/d3/dist/d3.min.js";
 
 
 // Hier wordt de svg aangemaakt.
